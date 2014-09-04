@@ -1,0 +1,20 @@
+
+
+var auxiliar = 13;
+
+
+function start(){
+	math2.log10(5);
+	auxiliar = math2.getVida();
+	math2.setVida(auxiliar);
+
+}
+
+
+
+function loop(){
+	
+
+
+}
+
